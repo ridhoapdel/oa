@@ -104,8 +104,20 @@ p.description {
   font-size: 24px;
   line-height: 1;
   font-weight: 600;
+  color: #2066FF;
 }
 
 img {
   filter: brightness(1);
+}
+
+
+.ra-com {
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+.ra-com:hover {
+  color: #F865B0;
+  
+  
 }
