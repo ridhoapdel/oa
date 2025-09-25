@@ -1,6 +1,6 @@
 Domain Parking Page
 =============
-Parked domains Owned by [ridhoapdel][apdel] will be pointed to this html webpage, which can be accessed via the following url: [oasis.web.app][landing-url]
+Parked domains Owned by [ridhoapdel][apdel] will be pointed to this html webpage, which can be accessed via the following url: [oa.thedev.id][landing-url]
 
 The javascript code inside this template, automatically sets the url displayed on the page to be the current host.
 
@@ -8,4 +8,4 @@ The javascript code inside this template, automatically sets the url displayed o
 [Email](/mailto:ridho@apdel.me)
 
 [apdel]: https://ridhoapdel.com/
-[landing-url]: http://oasis.web.app/
+[landing-url]: http://oa.thedev.id/
